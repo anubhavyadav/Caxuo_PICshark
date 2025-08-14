@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[<logo>](https://github.com/user-attachments/assets/8953e0a1-7848-4549-8135-2fd11f9e0f12)" alt="Caxuo PICshark Logo" width="120">
+  <img src="https://github.com/user-attachments/assets/8953e0a1-7848-4549-8135-2fd11f9e0f12" alt="Caxuo PICshark Logo" width="120">
 </p>
 # 🦈 Caxuo PICshark
 **Bulk Image Processing — Fast, Free & Portable**
