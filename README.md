@@ -10,22 +10,16 @@
 
 ---
 
-<p align="center">
-  <img src="<banner>" alt="Caxuo PICshark Banner">
-</p>
-
----
-
-<p align="center">
-  <img src="<screenshot1>" alt="Caxuo PICshark Home Screen">
-</p>
-
----
-
 ## 📌 What is Caxuo PICshark?
 
 Caxuo PICshark is a **free, lightweight, and portable** Windows GUI app for **bulk image processing**.  
 Perform multiple tasks on hundreds of images at once — without installation.
+
+---
+
+<p align="center">
+  <img width="600" height="350" alt="Caxuo PICshark Banner highlighting 5 processes" src="https://github.com/user-attachments/assets/281f4d2f-b274-4ca4-9ea5-74b944240d6f" />
+</p>
 
 ---
 
@@ -36,6 +30,12 @@ Perform multiple tasks on hundreds of images at once — without installation.
 - 📏 **Scale** — Resize by height or width with custom values  
 - 🔄 **Format** — Convert to JPG, JPEG, WEBP, AVIF, PNG, or BMP  
 - 🧩 **Combine** — Merge images vertically or horizontally  
+
+---
+
+<p align="center">
+  <img width="444" height="341" alt="Caxuo PICshark Home Screen Laayout" src="https://github.com/user-attachments/assets/9731639c-1330-43dc-b209-502960aca560" />
+</p>
 
 ---
 
