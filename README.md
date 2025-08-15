@@ -10,6 +10,10 @@
 
 ---
 
+**Go to Download page >>** https://github.com/anubhavyadav/caxuoPICshark/releases/tag/v1.0.2
+
+---
+
 ## 📌 What is Caxuo PICshark?
 
 Caxuo PICshark is a **free, lightweight, and portable** Windows GUI app for **bulk image processing**.  
@@ -48,8 +52,5 @@ Perform multiple tasks on hundreds of images at once — without installation.
 
 ---
 
-## 📥 Download & More Info
+**Go to Download page >>** https://github.com/anubhavyadav/caxuoPICshark/releases/tag/v1.0.2
 
-<p align="center">
-  <strong>⬇️ <a href="https://github.com/anubhavyadav/caxuoPICshark/releases/tag/v1.0.2">Get the latest version here</a> ⬇️</strong>
-</p>
