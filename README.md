@@ -39,6 +39,27 @@ It lets you compress, watermark, resize, convert, and combine hundreds of images
 
 ---
 
+### 🖥️ App Layout Overview
+
+> **The interface is divided into 4 main sections:**
+> 1. 📂 **File List** — Add images to the list  
+> 2. ⚙️ **Process Selection** — Choose from Compress, Watermark, Scale, Format, Combine  
+> 3. 🎛️ **Process Preferences** — Adjust task-specific options (e.g., compression level, watermark type, resize dimensions)  
+> 4. 📤 **Export Panel** — Select output folder & start batch processing
+
+---
+
+### 🛠️ Quick Start Guide
+
+1. 📥 Download & unzip the package  
+2. 🖼️ Add your image files to the list  
+3. ⚙️ Select a processing task (Compress, Watermark, Scale, Format, or Combine)  
+4. 🎛️ Adjust preferences if needed  
+5. 📤 Choose output folder  
+6. ▶️ Hit **Export** to start batch processing
+
+---
+
 ### 💡 Advantages
 
 - 🚀 Ultra-fast and lightweight (under 28 MB)  
