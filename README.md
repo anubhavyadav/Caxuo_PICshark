@@ -5,7 +5,7 @@
 <h2 align="center">🦈 Caxuo PICshark for Windows</h2>
 
 <p align="center">
-  <em>Free Bulk Image Processor for Windows with five essential Video related processes — Fast, Portable & Easy to use</em>
+  <em>Free Bulk Image Processor for Windows with five essential Image related processes — Fast, Portable & Easy to use</em>
 </p>
 
 ---
@@ -16,7 +16,7 @@
 
 ### 📌 About Caxuo PICshark App
 
-**Caxuo PICshark** is a Free, lightweight, portable Windows tool for Five(5) processes related to Images including Compress, Watermark, Resize, Convert and Combine in batch/bulk - quickly and without installation.
+**Caxuo PICshark** is a Free, lightweight, portable Windows tool for Five(5) processes related to Images including Compress, Watermark, Scale, Format and Combine in batch/bulk - quickly and without installation.
 
 <p align="center">
   <img width="602" alt="Caxuo PICshark Banner highlighting Five Image related processes" src="https://github.com/user-attachments/assets/281f4d2f-b274-4ca4-9ea5-74b944240d6f" />
@@ -41,7 +41,7 @@
 > The interface is divided into four intuitive sections:
 > 1. 📂 **Status Bar and Progress Bar** — Notify you about Steps to be taken and progress during export
 > 2. 📂 **File List** — Add, remove or rearrange your Images in the list
-> 3. ⚙️ **Process Selection and Preferences Panel** — Choose from Compress, Watermark, Resize, Convert, and Combine and then Adjust process-specific options
+> 3. ⚙️ **Process Selection and Preferences Panel** — Choose from Compress, Watermark, Scale, Format and Combine. Then Adjust process-specific options
 > 4. 📤 **Export** — Choose output folder and start processing by pressing Export button
 
 ---
@@ -50,7 +50,7 @@
 
 1. 📥 Download & unzip the package (keep in a folder other than Desktop)
 2. 📂 Add Images to the file list
-3. ⚙️ Select a process among Compress, Watermark, Resize, Convert and Combine
+3. ⚙️ Select a process among Compress, Watermark, Scale, Format and Combine
 4. 🎛️ Adjust preferences
 5. 📤 Choose output directory
 6. ▶️ Press **Export** button
@@ -65,7 +65,7 @@
 - ⏹️ Cancel export anytime  
 - 💻 Works 100% offline (No Adware or Bloatware)
 - 🧩 Process hundreds of Images in bulk/batch
-- 🚫 No watermark in Compress, Resize, Convert and Combine process of the App
+- 🚫 No watermark in Compress, Scale, Format and Combine process of the App
 
 ---
 
