@@ -10,64 +10,62 @@
 
 ---
 
-**Go to Download page >>** https://github.com/anubhavyadav/Caxuo_PICshark/releases/latest
+👉**Go to Download page >>** https://github.com/anubhavyadav/Caxuo_PICshark/releases/latest
 
 ---
 
 ### 📌 About the App
 
-**Caxuo PICshark** is a free, lightweight, and portable Windows application for **batch image processing**.  
-It lets you compress, watermark, resize, convert, and combine hundreds of images at once — without installing anything.
+**Caxuo PICshark** is a Free, lightweight, portable Windows tool for Five(5) processes related to Images including Compress, Watermark, Resize, Convert, and Combine in batch/bulk - quickly and without installation.
 
 <p align="center">
-  <img width="600" height="350" alt="Caxuo PICshark Banner highlighting 5 processes" src="https://github.com/user-attachments/assets/281f4d2f-b274-4ca4-9ea5-74b944240d6f" />
+  <img width="602" alt="Caxuo PICshark Banner highlighting Five Image related processes" src="https://github.com/user-attachments/assets/281f4d2f-b274-4ca4-9ea5-74b944240d6f" />
+</p>
+
+---
+### 🖥️ App Layout Overview
+
+> The interface is divided into four intuitive sections:
+> 1. 📂 **Status Bar and Progress Bar** — Notify you about Steps to be taken and progress during export
+> 2. 📂 **File List** — Add, remove or rearrange your Images in the list
+> 3. ⚙️ **Process Selection and Preferences Panel** — Choose from Compress, Watermark, Resize, Convert, and Combine and then Adjust process-specific options
+> 4. 📤 **Export** — Choose output folder and start processing by pressing Export button
+
+<p align="center">
+  <img width="602" alt="Caxuo PICshark Home Screen Layout" src="https://github.com/user-attachments/assets/9731639c-1330-43dc-b209-502960aca560" />
 </p>
 
 ---
 
 ### ✨ Key Features
 
-- 📉 **Compress** — Reduce file size while preserving visual quality  
-- 🖋️ **Watermark** — Add text or image watermarks with position, rotation, and transparency  
-- 📏 **Scale** — Resize by height or width with custom values or presets  
-- 🔄 **Format** — Convert between JPG, JPEG, WEBP, AVIF, PNG, BMP  
-- 🧩 **Combine** — Merge images vertically or horizontally  
-
-<p align="center">
-  <img width="444" height="341" alt="Caxuo PICshark Home Screen Layout" src="https://github.com/user-attachments/assets/9731639c-1330-43dc-b209-502960aca560" />
-</p>
-
----
-
-### 🖥️ App Layout Overview
-
-> **The interface is divided into 4 main sections:**
-> 1. 📂 **File List** — Add images to the list  
-> 2. ⚙️ **Process Selection** — Choose from Compress, Watermark, Scale, Format, Combine  
-> 3. 🎛️ **Process Preferences** — Adjust task-specific options (e.g., compression level, watermark type, resize dimensions)  
-> 4. 📤 **Export Panel** — Select output folder & start batch processing
+- 📉 **Compress** — Reduce Image size while preserving visual quality
+- 🖋️ **Watermark** — Add text or image watermarks to multiple Images (you can adjust position, rotation, transparency)
+- 📏 **Scale** — Resize Images by height or width with custom values or presets
+- 🔄 **Format** — Convert Images between JPG, JPEG, WEBP, AVIF, PNG, BMP
+- 🧩 **Combine** — Merge multiple Images vertically or horizontally
 
 ---
 
 ### 🛠️ Quick Start Guide
 
-1. 📥 Download & unzip the package  
-2. 🖼️ Add your image files to the list  
-3. ⚙️ Select a processing task (Compress, Watermark, Scale, Format, or Combine)  
-4. 🎛️ Adjust preferences if needed  
-5. 📤 Choose output folder  
-6. ▶️ Hit **Export** to start batch processing
+1. 📥 Download & unzip the package (keep in a folder other than Desktop)
+2. 📂 Add PDFs to the file list
+3. ⚙️ Select a process among Compress, Watermark, Resize, Convert, and Combine
+4. 🎛️ Adjust preferences
+5. 📤 Choose output directory
+6. ▶️ Press **Export** button
 
 ---
 
-### 💡 Advantages
+### 💡 Advantages - Why choose Caxuo PICshark?
 
-- 🚀 Ultra-fast and lightweight (under 28 MB)  
-- 📂 Works with all popular image formats  
-- 🧩 Perform 5 processes on hundreds of files at once  
-- 🧭 Real-time progress and status tracking  
-- ⚙️ Cancel any process anytime  
-- 💻 Works completely offline  
+- 🚀 Free to use, Lightweight & portable — no installation needed  
+- 📊 Progress & status bar for visual feedback  
+- ⏹️ Cancel export anytime  
+- 💻 Works 100% offline (No Adware or Bloatware)
+- 🧩 Process hundreds of Images in bulk/batch
+- 🚫 No watermark in Compress, Resize, Convert, and Combine process of the App
 
 ---
 
@@ -81,4 +79,4 @@ It lets you compress, watermark, resize, convert, and combine hundreds of images
 
 ---
 
-**Go to Download page >>** https://github.com/anubhavyadav/Caxuo_PICshark/releases/latest
+👉**Go to Download page >>** https://github.com/anubhavyadav/Caxuo_PICshark/releases/latest
