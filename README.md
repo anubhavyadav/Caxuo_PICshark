@@ -14,9 +14,9 @@
 
 ---
 
-### 📌 About the App
+### 📌 About Caxuo PICshark App
 
-**Caxuo PICshark** is a Free, lightweight, portable Windows tool for Five(5) processes related to Images including Compress, Watermark, Resize, Convert, and Combine in batch/bulk - quickly and without installation.
+**Caxuo PICshark** is a Free, lightweight, portable Windows tool for Five(5) processes related to Images including Compress, Watermark, Resize, Convert and Combine in batch/bulk - quickly and without installation.
 
 <p align="center">
   <img width="602" alt="Caxuo PICshark Banner highlighting Five Image related processes" src="https://github.com/user-attachments/assets/281f4d2f-b274-4ca4-9ea5-74b944240d6f" />
@@ -27,7 +27,7 @@
 - 📉 **Compress** — Reduce Image size while preserving visual quality
 - 🖋️ **Watermark** — Add text or image watermarks to multiple Images (you can adjust position, rotation, transparency)
 - 📏 **Scale** — Resize Images by height or width with custom values or presets
-- 🔄 **Format** — Convert Images between JPG, JPEG, WEBP, AVIF, PNG, BMP
+- 🔄 **Format** — Convert Images between *JPG, JPEG, WEBP, AVIF, PNG, BMP*
 - 🧩 **Combine** — Merge multiple Images vertically or horizontally
 
 ---
@@ -49,8 +49,8 @@
 ### 🛠️ Quick Start Guide
 
 1. 📥 Download & unzip the package (keep in a folder other than Desktop)
-2. 📂 Add PDFs to the file list
-3. ⚙️ Select a process among Compress, Watermark, Resize, Convert, and Combine
+2. 📂 Add Images to the file list
+3. ⚙️ Select a process among Compress, Watermark, Resize, Convert and Combine
 4. 🎛️ Adjust preferences
 5. 📤 Choose output directory
 6. ▶️ Press **Export** button
@@ -59,12 +59,13 @@
 
 ### 💡 Advantages - Why choose Caxuo PICshark?
 
+- 🧩 Five Image related essential processes in one app
 - 🚀 Free to use, Lightweight & portable — no installation needed  
 - 📊 Progress & status bar for visual feedback  
 - ⏹️ Cancel export anytime  
 - 💻 Works 100% offline (No Adware or Bloatware)
 - 🧩 Process hundreds of Images in bulk/batch
-- 🚫 No watermark in Compress, Resize, Convert, and Combine process of the App
+- 🚫 No watermark in Compress, Resize, Convert and Combine process of the App
 
 ---
 
