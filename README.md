@@ -22,21 +22,6 @@
   <img width="602" alt="Caxuo PICshark Banner highlighting Five Image related processes" src="https://github.com/user-attachments/assets/281f4d2f-b274-4ca4-9ea5-74b944240d6f" />
 </p>
 
----
-### 🖥️ App Layout Overview
-
-> The interface is divided into four intuitive sections:
-> 1. 📂 **Status Bar and Progress Bar** — Notify you about Steps to be taken and progress during export
-> 2. 📂 **File List** — Add, remove or rearrange your Images in the list
-> 3. ⚙️ **Process Selection and Preferences Panel** — Choose from Compress, Watermark, Resize, Convert, and Combine and then Adjust process-specific options
-> 4. 📤 **Export** — Choose output folder and start processing by pressing Export button
-
-<p align="center">
-  <img width="602" alt="Caxuo PICshark Home Screen Layout" src="https://github.com/user-attachments/assets/9731639c-1330-43dc-b209-502960aca560" />
-</p>
-
----
-
 ### ✨ Key Features
 
 - 📉 **Compress** — Reduce Image size while preserving visual quality
@@ -44,6 +29,20 @@
 - 📏 **Scale** — Resize Images by height or width with custom values or presets
 - 🔄 **Format** — Convert Images between JPG, JPEG, WEBP, AVIF, PNG, BMP
 - 🧩 **Combine** — Merge multiple Images vertically or horizontally
+
+---
+
+<p align="center">
+  <img width="602" alt="Caxuo PICshark Home Screen Layout" src="https://github.com/user-attachments/assets/9731639c-1330-43dc-b209-502960aca560" />
+</p>
+
+### 🖥️ App Layout Overview
+
+> The interface is divided into four intuitive sections:
+> 1. 📂 **Status Bar and Progress Bar** — Notify you about Steps to be taken and progress during export
+> 2. 📂 **File List** — Add, remove or rearrange your Images in the list
+> 3. ⚙️ **Process Selection and Preferences Panel** — Choose from Compress, Watermark, Resize, Convert, and Combine and then Adjust process-specific options
+> 4. 📤 **Export** — Choose output folder and start processing by pressing Export button
 
 ---
 
