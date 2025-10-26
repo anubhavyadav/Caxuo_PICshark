@@ -1,16 +1,16 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/8953e0a1-7848-4549-8135-2fd11f9e0f12" alt="Caxuo PICshark Logo" width="140">
+  <img width="200" alt="Caxuo PICshark App Logo" src="https://github.com/user-attachments/assets/8953e0a1-7848-4549-8135-2fd11f9e0f12">
 </p>
 
-<h2 align="center">🦈 Caxuo PICshark</h2>
+<h2 align="center">🦈 Caxuo PICshark for Windows</h2>
 
 <p align="center">
-  <em>Free, fast, and portable bulk image processor for Windows</em>
+  <em>Free Bulk Image Processor for Windows with five essential Video related processes — Fast, Portable & Easy to use</em>
 </p>
 
 ---
 
-**Go to Download page >>** https://github.com/anubhavyadav/caxuoPICshark/releases/tag/v1.0.2
+**Go to Download page >>** https://github.com/anubhavyadav/Caxuo_PICshark/releases/latest
 
 ---
 
@@ -71,11 +71,14 @@ It lets you compress, watermark, resize, convert, and combine hundreds of images
 
 ---
 
-### 🤝 Community & Feedback
+### ❤️ Community & Feedback
 
-- **We welcome your feedback and suggestions >>** https://github.com/anubhavyadav/caxuoPICshark/issues  
-- **Learn more about Caxuo Apps >>** https://levelup.caxuo.com/2025/04/free-productivity-softwares-by-caxuo.html  
+📣 **We welcome your feedback and suggestions** to help improve and evolve this app.
+
+- **Raise an issue >>** https://github.com/anubhavyadav/Caxuo_PICshark/issues
+
+- **Learn more about all Caxuo Apps >>** https://levelup.caxuo.com/2025/04/free-productivity-softwares-by-caxuo.html
 
 ---
 
-**Go to Download page >>** https://github.com/anubhavyadav/caxuoPICshark/releases/tag/v1.0.2
+**Go to Download page >>** https://github.com/anubhavyadav/Caxuo_PICshark/releases/latest
