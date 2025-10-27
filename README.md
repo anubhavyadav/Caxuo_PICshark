@@ -10,16 +10,16 @@
 
 ---
 
-👉**Go to Download page >>** https://github.com/anubhavyadav/Caxuo_PICshark/releases/latest
+👉 **Go to Download page >>** https://github.com/anubhavyadav/Caxuo_PICshark/releases/latest
 
 ---
 
 ### 📌 About the App
 
-**Caxuo PICshark** is a Free, lightweight, portable Windows tool for Five(5) processes related to Images including Compress, Watermark, Scale, Format and Combine in batch/bulk - quickly and without installation.
+**Caxuo PICshark** is a Free, lightweight, portable Windows tool for Image related Five processes including Compress, Watermark, Scale, Format and Combine in batch/bulk - quickly and without installation.
 
 <p align="center">
-  <img width="602" alt="Caxuo PICshark Banner highlighting Five Image related processes" src="https://github.com/user-attachments/assets/281f4d2f-b274-4ca4-9ea5-74b944240d6f" />
+  <img width="602" alt="Caxuo PICshark Banner highlighting Image related Five processes" src="https://github.com/user-attachments/assets/281f4d2f-b274-4ca4-9ea5-74b944240d6f" />
 </p>
 
 ### ✨ Key Features
@@ -31,14 +31,14 @@
 - 🧩 **Combine** — Merge multiple Images vertically or horizontally
 
 <p align="center">
-  <img width="602" alt="Caxuo PICshark Home Screen Layout" src="https://github.com/user-attachments/assets/9731639c-1330-43dc-b209-502960aca560" />
+  <img width="602" alt="Caxuo PICshark App Home Screen Layout" src="https://github.com/user-attachments/assets/9731639c-1330-43dc-b209-502960aca560" />
 </p>
 
 ---
 
-### 💡 Advantages - Why choose Caxuo PICshark?
+### 💡 Advantages of Caxuo PICshark?
 
-- 🧩 Five Image related essential processes in one app
+- 🧩 Image related Five essential processes in one app
 - 🚀 Free to use, Lightweight & portable — no installation needed  
 - 📊 Progress & status bar for visual feedback  
 - ⏹️ Cancel export anytime  
@@ -58,4 +58,4 @@
 
 ---
 
-👉**Go to Download page >>** https://github.com/anubhavyadav/Caxuo_PICshark/releases/latest
+👉 **Go to Download page >>** https://github.com/anubhavyadav/Caxuo_PICshark/releases/latest
