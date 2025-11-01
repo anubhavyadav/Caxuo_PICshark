@@ -16,7 +16,7 @@
 
 ### 📌 About the App
 
-**Caxuo PICshark** is a Free, lightweight, portable Windows tool for Image related Five processes including Compress, Watermark, Scale, Format and Combine in batch/bulk - quickly and without installation.
+- **Caxuo PICshark** is a Free, lightweight, portable Windows tool for Image related Five processes including Compress, Watermark, Scale, Format and Combine in batch/bulk - quickly and without installation.
 
 <p align="center">
   <img width="602" alt="Caxuo PICshark Banner highlighting Image related Five processes" src="https://github.com/user-attachments/assets/281f4d2f-b274-4ca4-9ea5-74b944240d6f" />
@@ -38,13 +38,14 @@
 
 ### 💡 Advantages of Caxuo PICshark?
 
-- 🧩 Image related Five essential processes in one app
-- 🚀 Free to use, Lightweight & portable — no installation needed  
-- 📊 Progress & status bar for visual feedback  
-- ⏹️ Cancel export anytime  
-- 💻 Works 100% offline (No Adware or Bloatware)
-- 🧩 Process hundreds of Images in bulk/batch
-- 🚫 No watermark in Compress, Scale, Format and Combine process of the App
+- 🧩 Image related Five essential processes in one app.
+- 🚀 Free to use, Lightweight & portable — no installation needed.
+- 📊 Progress & status bar for visual feedback.
+- ⏹️ Cancel export anytime.
+- 💻 Works 100% offline (No Adware or Bloatware).
+- 🧩 Process hundreds of Images in bulk/batch.
+- 🚫 No watermark in Compress, Scale, Format and Combine process of the App.
+- 💻 Easily Remove the App from your Computer - just Delete its unzipped Folder (No uninstallation required).
 
 ---
 
