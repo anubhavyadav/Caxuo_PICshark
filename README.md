@@ -24,11 +24,11 @@
 
 ### ✨ Key Features
 
-- 📉 **Compress** — Reduce Image size while preserving visual quality.
-- 🖋️ **Watermark** — Add text or image watermarks to multiple Images (you can adjust position, rotation, transparency).
-- 📏 **Scale** — Resize Images by height or width with custom values or presets.
-- 🔄 **Format** — Convert Images between *JPG, JPEG, WEBP, AVIF, PNG, BMP*.
-- 🧩 **Combine** — Merge multiple Images vertically or horizontally.
+- 📉 **Compress** — Reduce image size while preserving visual quality.
+- 🖋️ **Watermark** — Add image watermarks to multiple images (you can adjust position, rotation, transparency).
+- 📏 **Scale** — Resize images by height or width with custom values or presets.
+- 🔄 **Format** — Convert images among *JPG, JPEG, WEBP, AVIF, PNG, BMP*.
+- 🧩 **Combine** — Merge multiple images vertically or horizontally.
 
 <p align="center">
   <img width="602" alt="Caxuo PICshark App Home Screen Layout" src="https://github.com/user-attachments/assets/9731639c-1330-43dc-b209-502960aca560" />
